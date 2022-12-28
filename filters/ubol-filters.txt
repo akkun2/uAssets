@@ -18,3 +18,19 @@
 pornhub.com##+js(set, page_params.holiday_promo, true)
 pornhub.com###pb_block
 pornhub.com###relatedVideosCenter > .wrapVideoBlock
+
+! problems by $redirect-rule
+! CHP
+! /ads-api. in EL
+||ads-api.twitter.com^$xhr,redirect=noop.txt,3p
+! BAB
+! https://github.com/orgs/uBlockOrigin/teams/ublock-filters-volunteers/discussions/377
+||adclixx.net^$script,3p,redirect=nobab2.js
+||adnetasia.com^$script,3p,redirect=nobab2.js
+||adtrackers.net^$script,3p,redirect=nobab2.js
+||bannertrack.net^$script,3p,redirect=nobab2.js
+||ads.twitter.com/favicon.ico$image,3p,redirect=32x32.png
+||advertising.yahoo.com/favicon.ico$image,3p,redirect=32x32.png
+||doubleclickbygoogle.com/favicon.ico$image,3p,redirect=32x32.png
+||google.com/adsense/start/images/favicon.ico$image,3p,redirect=32x32.png
+||gstatic.com/adx/doubleclick.ico$image,3p,redirect=32x32.png
