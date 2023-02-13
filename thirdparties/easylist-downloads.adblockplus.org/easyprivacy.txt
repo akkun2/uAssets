@@ -6175,6 +6175,7 @@ _mongo_stats/
 ||mediapvx.com^
 ||mediapxv.com^
 ||micpn.com^
+||mitour.de^
 ||mm-api.agency^
 ||monu.delivery^
 ||mors22.com^
@@ -12695,6 +12696,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mc.yandex.com^
 ||mc.yandex.ru^
 ||mcdp-*.outbrain.com^
+||mcloud.to/ping/
 ||mcssl.com^*/track.ashx?
 ||mdctrail.com/b.ashx$third-party
 ||mdxprod.io/analytics.js
@@ -13600,6 +13602,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||videopress.com/plugins/stats/
 ||vidible.tv/trk/
 ||vidstream.pro/log/
+||vidstream.pro/ping/
 ||viglink.com/api/ping$third-party
 ||vimeocdn.com/add/player-stats?
 ||vimeocdn.com/ga/
