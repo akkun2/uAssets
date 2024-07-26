@@ -4476,6 +4476,7 @@ omni.soundestlink.com$image
 ||hotlog.ru^$third-party
 ||hscta.net^$third-party
 ||hubvisor.io^$third-party
+||hum.works^$third-party
 ||humanclick.com^$third-party
 ||humanpresence.app^$third-party
 ||hunt-leads.com^$third-party
