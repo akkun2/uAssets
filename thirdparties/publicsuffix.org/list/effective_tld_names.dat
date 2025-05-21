@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-05-19_22-31-50_UTC
-// COMMIT: e3b814bab0fa25acbcf5fea6d2bde42d1f345a40
+// VERSION: 2025-05-20_06-50-52_UTC
+// COMMIT: 71fb417d6c6c2a2b860fd258239d02144d55af2f
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -12349,9 +12349,9 @@ cafjs.com
 // Canva Pty Ltd : https://canva.com/
 // Submitted by Joel Aquilina <publicsuffixlist@canva.com>
 canva-apps.cn
-*.my.canvasite.cn
+my.canvasite.cn
 canva-apps.com
-*.my.canva.site
+my.canva.site
 
 // Carrd : https://carrd.co
 // Submitted by AJ <aj@carrd.co>
